@@ -1,0 +1,2 @@
+8/20/2024
+Set up and installed dependencies for project as well as cleaned up the template from create-react-app. 
