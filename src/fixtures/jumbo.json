@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Enjoy on your TV.",
+        "subTitle": "Watch on Smart Tvs, Consoles, Computers and more.",
+        "image": "/images/misc/home-tv.jpg",
+        "alt": "Jujustu Kaisen on Netflix",
+        "direction": "row"
+    },
+    {
+        "id": "2",
+        "title": "Download your favorite shows and movies to watch on the go.",
+        "subTitle": "Watch offline while in the air",
+        "image": "/images/misc/home-mobile.jpg",
+        "alt": "Watch on your mobile device",
+        "direction": "row"
+    },
+    {
+        "id": "3",
+        "title": "Watch Everywhere",
+        "subTitle": "Stream whatever you want, wherever you want",
+        "image":"/images/misc/home-imac.jpg",
+        "alt": "The Witcher on Netflix",
+        "direction": "row"
+    }
+]
